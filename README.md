@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lucas Vinicius
+- 👋 Hi, I’m Bianca
 - 👀 I’m interested in programing, web development and game development
 - 🌱 I’m currently learning Python, JavaScript, C# and Unity
 - 💞️ I’m looking to collaborate on ...
