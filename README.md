@@ -24,6 +24,6 @@
 </div>
 <h1>🎮 What I am studying and my interests ✏️</h1>
 <p>I'm currently trying to improve my skills as a Front-End developer, but also studyng ExpressJS and NodeJs so I can be a Back-End/Full-Stack developer. I love games and have game development as a hobby, working mostly with Unity; I graduate as a Computer Engineer, studying programming, eletrical circuits, AI and Microcontrollers/Microcomputers. I also love drawing, animation, cinema and reading, but this has nothing to do with programming.</p>
-<div style="width= 100%; text-align= center;">
+<div style="width: 100%; text-align: center;">
     <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" />
 </div>
