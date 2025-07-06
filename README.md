@@ -1,5 +1,5 @@
-<h1>💻 Hey, I am Bianca, a Web Developer!! 📱</h1>
-<p>I'm a Front-End developer, with years of experience working in the field, my GitHub contains some personal projects and projects from courses I took. I have developed web applications from scratch, helped maintain existing projects, developed Mobile applications and served as support for other teams. I love programming and I'm always learning new stuff!!</p>
+<h1>💻 Hey, I am Bianca, a Web Developer! 📱</h1>
+<p>I'm a Front-End developer, with years of experience working in the field, my GitHub contains some personal projects and projects from courses I took. I have developed web applications from scratch, helped maintain existing projects, developed Mobile applications and served as support for other teams. I love programming and I'm always learning new stuff!</p>
 <h1>🔧 Tools I have worked with 🔨</h1>
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/>
@@ -23,7 +23,7 @@
     alt="Bootstrap" width="50" height="50"/>
 </div>
 <h1>🎮 What I am studying and my interests ✏️</h1>
-<p>I'm currently trying to improve my skills as a Front-End developer, but also studyng ExpressJS and NodeJs so I can be a Back-End/Full-Stack developer. I love games and have game development as a hobby, working mostly with Unity; I graduate as a Computer Engineer, studying programming, eletrical circuits, AI and Microcontrollers/Microcomputers. I also love drawing, animation, cinema and reading, but this has nothing to do with programming.</p>
+<p>I'm currently trying to improve my skills as a Front-End developer, but also studyng ExpressJS and NodeJs so I can be a Back-End/Full-Stack developer. I have game development as a hobby, working mostly with Unity; I graduated as a Computer Engineer, studying programming, eletronic circuits, AI and Microcontrollers/Microcomputers. I also love drawing, gaming, animation, cinema and reading.</p>
 <p align="center">
     <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" />
 </p>
