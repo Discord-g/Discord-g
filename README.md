@@ -1,4 +1,4 @@
-<h1>💻 hey, I am Bianca, a Web Developer!! 📱</h1>
+<h1>💻 Hey, I am Bianca, a Web Developer!! 📱</h1>
 <p>I'm a Front-End developer, with years of experience working in the field, my GitHub contains some personal projects and projects from courses I took. I have developed web applications from scratch, helped maintain existing projects, developed Mobile applications and served as support for other teams. I love programming and I'm always learning new stuff!!</p>
 <h1>🔧 Tools I have worked with 🔨</h1>
 <div>
