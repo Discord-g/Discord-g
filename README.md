@@ -22,7 +22,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
     alt="Bootstrap" width="50" height="50"/>
 </div>
-<h1>🎮 What I am studying and my interests ✏️</h1>
+<h1>✏️ What I am studying and my interests 🎮</h1>
 <p>I'm currently trying to improve my skills as a Front-End developer, but also studyng ExpressJS and NodeJs so I can be a Back-End/Full-Stack developer. I'm passionate about game development and often do it as a hobby; I graduated as a Computer Engineer, studying programming, electronic circuits, AI and Microcontrollers/Microcomputers. I also love drawing, gaming, animation, cinema and reading.</p>
 <p align="center">
     <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" />
